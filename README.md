@@ -21,7 +21,7 @@ Type accepted are:
 ## License
 
     qb-ui
-    Copyright (C) 2021 Zea Ra
+    Copyright (C) 2022 Zea Ra
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
